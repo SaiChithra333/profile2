@@ -81,4 +81,16 @@
     html,body{
         overflow-x: hidden;
     }
+   
+    .subeducation{
+        flex-direction: column;
+    }
+    .study
+    {
+        text-align: center;
+        margin-left: 25%;
+    }
+    .study1{
+        margin-left: 33%;
+    }
 }
