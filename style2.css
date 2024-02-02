@@ -14,7 +14,7 @@
      .myphoto{
         width: 100%;
         height: 50%;
-        background-image = url("shiny22.jpg");
+        background-image: url("shiny22.jpg");
     }
     .details{
         width: 100%;
